@@ -1,0 +1,77 @@
+.header {
+    margin: auto;
+    padding: 10px;
+    border-top: green;
+    width: 80%;
+
+}
+.headerItem {
+    display: inline-block;
+    color: brown;
+    padding: 0,10px;
+
+}
+
+.parent {
+    border: 1px solid green;
+    width: 80%;
+    margin: auto;
+}
+
+.child1 {
+
+    display: inline-block;
+    border: 1px solid blue;
+    width: 50%
+} 
+.child2 {
+    display: inline-block;
+    border: 1px solid blue;
+    width: 18%
+} 
+.child3 {
+    display: inline-block;
+    border: 1px solid blue;
+    width: 30%;
+} 
+
+
+.text {
+    text-decoration:none;
+    color: rgb(44, 39, 39)
+}
+.text1 {
+    color: red;
+    
+}
+.text2 {
+    font-weight: bold;
+    font-size: 20px;     
+}
+
+img {
+    display: block;
+    margin: 5px;
+    height: auto;
+    width: 95%;
+}
+
+.worldCup {
+    margin: 5px;
+    background: red;
+    color: white;
+    text-decoration: none;
+}
+
+.text3 {
+    margin-top: 4px;
+    margin-right: 0px;
+    margin-bottom: 4px;
+    margin-left: 0px;
+}
+
+.text4 {
+    font-weight: bold;
+    text-decoration:none;
+    color: rgb(44, 39, 39)
+}
