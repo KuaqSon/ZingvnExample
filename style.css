@@ -6,14 +6,12 @@
 
 }
 .headerItem {
-    display: inline-block;
-    color: brown;
-    padding: 0,10px;
-
+    list-style-type: none;
+    display: inline-block;  
 }
 
 .parent {
-    border: 1px solid green;
+    border: 1px solid rgb(206, 206, 209);
     width: 80%;
     margin: auto;
 }
@@ -21,17 +19,17 @@
 .child1 {
 
     display: inline-block;
-    border: 1px solid blue;
+    border: 1px solid rgb(206, 206, 209);
     width: 50%
 } 
 .child2 {
     display: inline-block;
-    border: 1px solid blue;
+    border: 1px solid rgb(206, 206, 209);
     width: 18%
 } 
 .child3 {
     display: inline-block;
-    border: 1px solid blue;
+    border: 1px solid rgb(206, 206, 209);
     width: 30%;
 } 
 
@@ -74,4 +72,12 @@ img {
     font-weight: bold;
     text-decoration:none;
     color: rgb(44, 39, 39)
+}
+
+.text5 {
+    background: #fafafa;
+    border-top: 3px solid  #007197;
+    padding-top: 5px; 
+    text-decoration:none;
+    color: #007197;
 }
