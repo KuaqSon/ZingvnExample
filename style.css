@@ -28,7 +28,7 @@
     vertical-align:top;
     display: inline-block;
     padding: 4px;
-    width: 17%
+    width: 18%
 } 
 .child3 {
     vertical-align:top;
@@ -36,27 +36,15 @@
     width: 30%;
 } 
 .child4 {
-    vertical-align:top;
+    vertical-align: top;
     display: inline-block;
     padding: 4px;
     width: 30%;
 } 
-
-
-
-.text {
-    text-decoration:none;
-    color: rgb(44, 39, 39);
-    font-size: 90%;
-    display: inline-block;
-}
-.text1 {
-    color: red;
-    
-}
-.text2 {
-    font-weight: bold;
-    font-size: 20px;     
+.child5 {
+    padding-right: 0;
+    margin-right: 10px;
+    display: inline;
 }
 
 img {
@@ -73,17 +61,31 @@ img {
     text-decoration: none;
 }
 
-.text3 {
-    margin-top: 4px;
-    margin-right: 0px;
-    margin-bottom: 4px;
-    margin-left: 0px;
+.text {
+    /* text-decoration:none; */
+    color: rgb(44, 39, 39);
+    font-size: 90%;
+    padding: 0;
 }
-
+.text1 {
+    color: red;
+    
+}
+.text2 {
+    font-weight: bold;
+    font-size: 20px;     
+}
+.text3 {
+    font-weight: bold;
+    text-decoration:none;
+    color: rgb(77, 71, 71);
+    padding: 0;   
+}
 .text4 {
     font-weight: bold;
     text-decoration:none;
-    color: rgb(44, 39, 39)
+    color: rgb(77, 71, 71);
+    padding: 4px;   
 }
 
 .text5 {
