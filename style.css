@@ -55,10 +55,12 @@ img {
 }
 
 .worldCup {
-    margin: 5px;
-    background: red;
+    padding: 2px;
+    margin: 1px;
+    background: #d80000;
     color: white;
     text-decoration: none;
+    font-size: 80%;
 }
 
 .text {
